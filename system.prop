@@ -1,3 +1,7 @@
+# additional features
+persist.sys.cpu.core_ctl=1
+persist.sys.config.zram=1
+
 # Audio
 audio.offload.disable=1
 af.fast_track_multiplier=1
