@@ -38,6 +38,9 @@ use.qti.sw.ape.decoder=true
 persist.bt.enableAptXHD=true
 audio.safemedia.bypass=true
 
+ro.config.vc_call_vol_steps=14
+ro.config.media_vol_steps=30
+
 # Bluetooth
 bluetooth.hfp.client=1
 qcom.bluetooth.soc=smd
